@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/DifferentUnfinishedAmericancrow-max-1mb.gif" alt="magical pony" /></p>
 
-<h3 align="center">Oh, nope... Just a french junior web developer named Pauline</h3>
+<h3 align="center">Oh, nope... Just a french junior web developer :metal:</h3>
 
 - 📫 How to reach me **paulinelesueur93@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/pauline-lesueur/) or my personnal [page](https://paulinelesueur.github.io/)
