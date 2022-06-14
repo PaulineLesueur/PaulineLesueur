@@ -5,7 +5,8 @@
 <h3 align="center">Oh, nope... Just a french junior web developer named Pauline</h3>
 
 - 📫 How to reach me **paulinelesueur93@gmail.com**
-- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/pauline-lesueur/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/pauline-lesueur/) or my personnal [page](https://paulinelesueur.github.io/)
+- :crystal_ball: This page will be updated soon...
 - ⚡ I like trains 
 
 <h3 align="left">Connect with me:</h3>
